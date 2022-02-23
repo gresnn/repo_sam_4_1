@@ -1,0 +1,3 @@
+Установка GitHub Desktop 
+Перейти  на  официальный  сайт  GitHub  Desktop  и  запустить  процесс 
+загрузки посредством нажатия на кнопку «Download for Windows (64bit)»
